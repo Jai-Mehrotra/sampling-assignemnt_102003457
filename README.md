@@ -1,12 +1,12 @@
 # sampling-assignemnt_102003457
-Sampling Techniques in Python
+# Sampling Techniques in Python
 This repository contains Python code demonstrating various sampling techniques, including:
 
-Simple random sampling
-Systematic sampling
-Stratified sampling
-Cluster sampling
-Multi-stage sampling
+1.Simple random sampling
+2.Systematic sampling
+3.Stratified sampling
+4.Cluster sampling
+5.Multi-stage sampling
 Each sampling technique is demonstrated with example code and explanations of how the technique works.
 
 Installation
